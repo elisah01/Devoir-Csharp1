@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using ProjetCsharp1.Entity;
+using Entity;
 
 namespace Repositories
 {
