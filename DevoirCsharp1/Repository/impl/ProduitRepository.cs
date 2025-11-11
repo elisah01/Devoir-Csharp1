@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using ProjetCsharp1.Entity;
+using Entity;
 
 namespace Repositories
 {
